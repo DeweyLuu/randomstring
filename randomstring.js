@@ -24,6 +24,3 @@ $("button").on("click", function() {
 	var temp = random(randomness);
 	replace.text(temp);
 });
-
-//var temp2 = randomness.length;
-//var temp = Math.random() * temp2;
